@@ -1,0 +1,11 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+.brown{color:#3E2723;}
+html{background-color: #F5E6D3;}
+ul{color: #4E342E;}
+p{color: #5D4037;}
+img{height: 200px; width: 200px;}
+.note{text-align: center;}
